@@ -228,7 +228,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/khenzarr/republic-civilization-lab/issues)
 - **Discussions**: [Join the conversation](https://github.com/khenzarr/republic-civilization-lab/discussions)
-- **Twitter**: [@khenzarr](https://twitter.com/khenzarr) (if applicable)
+- **X/Twitter**: [@cryptokhenzar](https://x.com/cryptokhenzar) (if applicable)
 
 ---
 
