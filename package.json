@@ -1,6 +1,27 @@
 {
   "name": "republic-civilization-lab",
   "version": "1.0.0",
+  "description": "AI-powered civilization generator for Republic Testnet - Generate unique fictional civilizations with language, mythology, and culture",
+  "author": "KHENZAR <https://github.com/khenzarr>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khenzarr/republic-civilization-lab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khenzarr/republic-civilization-lab/issues"
+  },
+  "homepage": "https://republic-civilization-lab.vercel.app",
+  "keywords": [
+    "republic-testnet",
+    "civilization-generator",
+    "ai",
+    "nextjs",
+    "typescript",
+    "procedural-generation",
+    "decentralized-compute",
+    "web3"
+  ],
   "private": true,
   "scripts": {
     "dev": "next dev",
