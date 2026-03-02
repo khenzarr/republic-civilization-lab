@@ -31,12 +31,12 @@
   },
   "dependencies": {
     "next": "^14",
-    "react": "^18",
+    "react": "^19",
     "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
-    "@types/react": "^18",
+    "@types/react": "^19",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.4.27",
     "eslint": "^8",
