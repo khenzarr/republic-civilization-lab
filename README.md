@@ -18,7 +18,7 @@
 ## 📷 Screenshots
 
 ![Republic Civilization Lab UI](assets/demo-placeholder.gif)
-*Dark futuristic interface with animated backgrounds and real-time generation*
+<img width="1332" height="831" alt="image" src="https://github.com/user-attachments/assets/369740c1-1052-4a85-9002-d37899bbaea3" />
 
 ## ⚡ Features
 
