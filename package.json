@@ -30,7 +30,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^14",
+    "next": "^16",
     "react": "^18",
     "react-dom": "^18"
   },
